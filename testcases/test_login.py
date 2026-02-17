@@ -4,6 +4,7 @@ from pageobjetct.LoginPage import Login
 from testcases.conftest import setup
 from utilities.Helper import get_row_value
 
+print("zubair")
 
 class Test_Login_001:
 
